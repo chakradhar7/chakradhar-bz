@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chakradhar7/chakradhar-bz/issues"
   },
-  "homepage": "https://github.com/chakradhar7/chakradhar-bz#readme"
+  "homepage": "https://github.com/chakradhar7/chakradhar-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
